@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sagar-Portfolio/static/css/main.3ade0b01.css",
+    "main.js": "/Sagar-Portfolio/static/js/main.4af26d83.js",
+    "static/media/sagar.JPG": "/Sagar-Portfolio/static/media/sagar.9d83e58b8af8d5ba22d5.JPG",
+    "static/media/me.png": "/Sagar-Portfolio/static/media/me.f367b1b868f9b3f2d44b.png",
+    "static/media/12.jpeg": "/Sagar-Portfolio/static/media/12.3e1572391f23a89a1f69.jpeg",
+    "static/media/13.jpeg": "/Sagar-Portfolio/static/media/13.72dda381082c8f40aab6.jpeg",
+    "static/media/Sagar_Singh_Resume.pdf": "/Sagar-Portfolio/static/media/Sagar_Singh_Resume.a76683442935614b1d7c.pdf",
+    "static/media/m.jpg": "/Sagar-Portfolio/static/media/m.486a4ca70e5297c235b3.jpg",
+    "static/media/f.webp": "/Sagar-Portfolio/static/media/f.50558ddddec742334a77.webp",
+    "static/media/c.avif": "/Sagar-Portfolio/static/media/c.6255368568a10beebe4f.avif",
+    "static/media/w.jpg": "/Sagar-Portfolio/static/media/w.d7c524df14da3c1fb9a0.jpg",
+    "index.html": "/Sagar-Portfolio/index.html",
+    "main.3ade0b01.css.map": "/Sagar-Portfolio/static/css/main.3ade0b01.css.map",
+    "main.4af26d83.js.map": "/Sagar-Portfolio/static/js/main.4af26d83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ade0b01.css",
+    "static/js/main.4af26d83.js"
+  ]
+}
