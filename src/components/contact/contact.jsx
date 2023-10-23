@@ -48,7 +48,7 @@ function Contact() {
             <article className="contact__option"> 
               <BsWhatsapp className='contact__option-icon'/>
               <h4>Whatsapp</h4>
-              <h5>8077966340</h5>
+              <h5>+91 8077966340</h5>
               <a href="https://api.whatsapp.com/send?phone=8077966340" target="_blank">Send a message</a>
             </article>
         </div>
